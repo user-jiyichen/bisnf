@@ -1,6 +1,6 @@
 # Bayesian Importance Sampling (and Normalizing Flows)
-## Yichen Ji, Eric Jiang, Haining Tan, Ryan Wang
 ## Supervisor: Scott Schwartz
+## Yichen Ji, Eric Jiang, Haining Tan, Ryan Wang
 
 # Current Experiments:
 Yichen:
