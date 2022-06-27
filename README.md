@@ -2,7 +2,7 @@
 ### Supervisor: Scott Schwartz
 ### Yichen Ji, Eric Jiang, Haining Tan, Ryan Wang
 
-This is a code repo for the experiments.*[This repo is about our introduction, background material, and related papers.](https://github.com/pointOfive/Summer_2022_STA496H1)
+This is a code repo for the experiments.[This repo is about our introduction, background material, and related papers.](https://github.com/pointOfive/Summer_2022_STA496H1)
 
 ## Current Experiments:
 Yichen:
