@@ -4,7 +4,7 @@
 
 ## Current Experiments:
 Yichen:
-* `put your experiments here`
+* [Conditional Density/Regression](https://colab.research.google.com/drive/1kTNrOWnhcYIy0qs6T-5MWSlA-yixdkj-?usp=sharing)
 
 Eric:
 * `put your experiments here`
